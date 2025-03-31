@@ -1814,7 +1814,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   /* Изображение врача */
   .features__image img {
   position: relative;
-  width: 530px;
+  width: 65%;
   height: auto;
   display: block;
   margin: 0 auto;
